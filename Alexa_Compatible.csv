@@ -1,0 +1,6 @@
+"Category","Product","Why it’s Echo Dot friendly","Setup notes","Link"
+"Lighting","Philips Hue bulbs & Hue Bridge","Full Alexa control (voice scenes, dim, colour) via Hue skill or via Echo with Bridge/Matter.","Enable Philips Hue skill in Alexa app; discover devices.","=HYPERLINK(""https://www.philips-hue.com/"",""Verify link"")"
+"Plugs","TP-Link Tapo smart plugs (P100 / P110)","Works with Alexa via Tapo skill; voice on/off, schedules, groups.","Enable Tapo skill and link account in Alexa app.","=HYPERLINK(""https://www.tp-link.com/uk/home-networking/smart-plug/"",""Verify link"")"
+"Doorbell / Camera","Nest Doorbell & Nest Cam","Google-first devices; Alexa support limited; Echo Show streaming varies.","Recommend Google Home for full features; Echo Show may stream where supported.","=HYPERLINK(""https://store.google.com/product/nest_doorbell"",""Verify link"")"
+"Wi-Fi / Hub","Google Nest Wifi","Works as a Matter/Thread border router for Matter devices.","Use with Matter-enabled devices and compatible Echo devices.","=HYPERLINK(""https://store.google.com/product/nest_wifi"",""Verify link"")"
+"Kitchen Appliances","Ninja Foodi smart models","Many smart air-fryer/multi-cookers support Alexa via vendor app/skill.","Check Ninja app for Alexa/skill support; enable skill and link account.","=HYPERLINK(""https://www.ninjakitchen.co.uk/"",""Verify link"")"
